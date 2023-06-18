@@ -4,7 +4,7 @@
 	</head>
 	<body>
 		<h1>My To Do List</h1>
-		<form action="todo.php" method="post">
+		<form action="saveTodo.php" method="post">
 			<input type="text" name="todo">
 			<input type="submit" value="Save Todo">
 		</form>
